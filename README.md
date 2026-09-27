@@ -4,7 +4,7 @@
 
 An end-to-end data analysis pipeline processing employee income data—from raw CSV to interactive Power BI report.
 
-<img width="708" height="394" alt="dashboard" src="https://github.com/user-attachments/assets/a2698229-5a3d-4df2-ac39-c1ee853764a0" />
+<img width="631" height="353" alt="dashboard" src="https://github.com/user-attachments/assets/4b9f5e5c-a7cb-45e2-90e6-f6646444e83f" />
 
 </div>
 
