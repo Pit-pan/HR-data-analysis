@@ -1,0 +1,11 @@
+CREATE VIEW Data_for_report AS
+SELECT 
+    "EmployeeNumber", 
+    "Age", 
+    "Attrition", 
+    "Gender",
+    "JobRole", 
+    "MonthlyIncome", 
+    "YearsAtCompany", 
+    "YearsInCurrentRole"
+FROM hr_data;
